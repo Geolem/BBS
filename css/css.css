@@ -1,0 +1,14 @@
+/*基本信息*/
+body {font:15px Tahoma;margin:12px;text-align:center;background:#C0C0C0;}
+
+/*页面层容器*/
+#container {width:100%}
+
+/*页面头部*/
+#Header {width:850px;margin:16px auto;height:100px;background:#FFFAFA}
+
+/*页面主体*/
+#PageBody {width:850px;margin:8px auto; min-height :580px ;background:#FFFAFA}
+
+/*页面底部*/
+#Footer {width:850px;margin:0 auto;height:85px;background:#E6E6FA}

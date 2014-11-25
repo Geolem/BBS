@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<file>
+  <xmlrecord>
+    <title>
+    </title>
+    <content>
+    </content>
+    <posttime>
+    </posttime>
+    <postuser>
+    </postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>今日新闻1</title>
+    <posttime>2014/11/24 0:20:38</posttime>
+    <content>今日新闻1</content>
+    <user>sa1</user>
+  </xmlrecord>
+  <xmlrecord>
+    <title>回复今日新闻1</title>
+    <posttime>2014/11/24 16:40:22</posttime>
+    <content>回复今日新闻1回复今日新闻1回复今日新闻1回复今日新闻1回复今日新闻1回复今日新闻1回复今日新闻1回复今日新闻1</content>
+    <postuser>sa1</postuser>
+  </xmlrecord>
+</file>

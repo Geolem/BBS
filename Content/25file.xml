@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<file>
+  <xmlrecord>
+    <title>
+    </title>
+    <content>
+    </content>
+    <posttime>
+    </posttime>
+    <postuser>
+    </postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>ee</title>
+    <posttime>2014/11/25 10:18:11</posttime>
+    <content>eeee</content>
+    <postuser>asp</postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>hui</title>
+    <posttime>2014/11/25 10:18:22</posttime>
+    <content>hhh</content>
+    <postuser>asp</postuser>
+  </xmlrecord>
+</file>
